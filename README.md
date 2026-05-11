@@ -29,7 +29,7 @@ Langkah-langkah:
 -Mengirim: git push origin [nama_branch] (biasanya main atau master).
 
 3. Langkah-Langkah Clone Repository
-<img src = "/images/Gitclone.png/">
+<img src = "/images/gitclone.png/">
 <img src = "/images/cd.png/">
 Fungsi: Menyalin repositori yang sudah ada di server (Remote) ke komputer lokal untuk pertama kalinya.
 
