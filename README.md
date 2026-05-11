@@ -13,7 +13,7 @@ Mengapa tidak menggunakan aplikasi klik-klik saja? Berikut alasannya:
 
 
 2. Langkah-Langkah Push Repository
-<img src = "/image/Push repository.png">
+<img src = "/images/gitpush.png">
 Fungsi: Mengirimkan perubahan kode dari komputer lokal (Local Repository) ke server pusat (Remote Repository seperti GitHub/GitLab).
 
 Langkah-langkah:
