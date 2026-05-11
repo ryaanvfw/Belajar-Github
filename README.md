@@ -44,8 +44,8 @@ git clone [URL_REPO]
 
 
 4. Langkah-Langkah Pull dan Push (Workflow Rutin)
-<img src = "/image/pull.png/">
-<img src = "/image/Push repository.png/">
+<img src = "/images/pull.png/">
+<img src = "/images/cd.png/">
 Fungsi: Ini adalah alur kerja harian. Pull dilakukan untuk mengambil update terbaru dari rekan tim agar tidak terjadi konflik, sedangkan Push untuk mengirim hasil kerja kita.
 
 Langkah-langkah Ideal:
